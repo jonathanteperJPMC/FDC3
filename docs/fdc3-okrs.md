@@ -35,8 +35,8 @@ Objective #2: **Ensure a sustainable level of engagement with the community**
 *As defined and approved by the UCWG [here](https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/1110212640/FDC3+UC+Working+Group+Objectives+-+2019) and reviewed [here](https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/1226244097/2019-10-17+uc-wg+meeting+notes).*
 
 Objective #1: **Advance business transformation by connecting the financial desktop app ecosystem with streamlined user workflows**
-* KR #1: Document new 10 cross-app financial workflows  => 1 new use case
-* KR #2: 70% of workflows implemented or accepted onto the roadmap of standards  =>  6.5% complete, 63.5% remaining
+* KR #1: Document new 10 cross-app financial workflows  **=> 1 new use case**
+* KR #2: 70% of workflows implemented or accepted onto the roadmap of standards  **=>  6.5% complete**, 63.5% remaining
 * KR #3: Demonstrate business transformation, as measured by qualitative metrics (5 testimonials from adopters)
 * KR #4: Demonstrate business transformation, as measured by quantitative metrics (50,000 completed interop workflows)
 
