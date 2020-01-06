@@ -7,10 +7,14 @@ title: Objective & Key Results | FINOS FDC3
 # Objectives & Key Results
 
 ## 2020 
+### FDC3 Program
+*Placeholder*
+### Use Case Working Group
+*Placeholder*
 
 ## 2019 
 
-### 2019 FDC3 Program
+### FDC3 Program
 *As defined & approved by the PMC [here](https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/1172570152/2019-08-09+Meeting)*.
 
 Objective #1: Demonstrate business transformation with significant adoption of FDC3 in 2019
@@ -24,7 +28,7 @@ Objective #2: Ensure a sustainable level of engagement with the community
 * KR #2: All WG chairs communicate with their WG at least once a week through email, GitHub, or confluence
 * KR #3: PRs and issues being filed for all WGs between meetings
 
-### 2019 Use Case Working Group
+### Use Case Working Group
 *As defined and approved by the UCWG [here](https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/1110212640/FDC3+UC+Working+Group+Objectives+-+2019) and reviewed [here](https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/1226244097/2019-10-17+uc-wg+meeting+notes).*
 
 Objective #1: Advance business transformation by connecting the financial desktop app ecosystem with streamlined user workflows
