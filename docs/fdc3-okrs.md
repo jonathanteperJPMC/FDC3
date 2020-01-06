@@ -1,4 +1,3 @@
-Objectives & Key Results
 ---
 id: fdc3-okrs
 sidebar_label: OKRs
