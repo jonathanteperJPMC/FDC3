@@ -8,12 +8,24 @@ title: Objective & Key Results | FINOS FDC3
 
 ## 2020 OKRs
 ### FDC3 Program
+
 *DRAFT*
-* Objective #1: **Maintain and increase momentum around FDC3 by producing clear and visible progress to the standard**
-* Objective #2: **Support and accelerate implementations of the standard**
+
+Objective #1: **Maintain and increase momentum around FDC3 by producing clear and visible progress to the standard**
+
+Objective #2: **Support and accelerate implementations of the standard**
 
 ### Use Case Working Group
-*Placeholder*
+
+*Draft*
+
+Objective #1: **Demonstrate the impact of FDC3 Interoperability**
+* KR #1: the qualitative & quantitative impact of FDC3 are being tracked and published
+* KR #2: 5 real-world use-cases are showcased (documented and demo'd end-to-end)
+* KR #3: use-cases are well integrated into all working groups' workflows -- as measured by: 
+     * 5 use-case pull requests are submitted to the UCWG from other FDC3 working groups 
+     * 80% of standards map to documented use-cases 
+
 
 ## 2019 OKRs
 
