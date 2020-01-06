@@ -4,15 +4,18 @@ sidebar_label: OKRs
 title: Objective & Key Results | FINOS FDC3
 ---
 
-## FDC3's Objective & Key Results
+## Objectives & Key Results
 
 * 2019
 * 2020
 
-Reference
-* FINOS [2019 OKRs](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview?preview=/90439791/1160970267/2019%20FINOS%20OKRs.pdf)
+## References
 
-## Background
+### FINOS OKRs
+
+* [2019](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview?preview=/90439791/1160970267/2019%20FINOS%20OKRs.pdf)
+
+### What are OKRs? 
 
 How do we know we are working on the right thing? How do we know our working groups & programs are working toward concerted goals? How do we measure success? The Objectives & Key Results (OKR) framework helps us answer these questions. 
 
