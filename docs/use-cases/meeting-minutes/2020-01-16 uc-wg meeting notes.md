@@ -24,7 +24,9 @@
   - 4. Deleted [same comment as above]
   - 5. Backlog [same comment as above]
   - Use Case XX: Template [we can create this as a github issue type]
-
+- Action Items 
+  - to be reviewed and closed out. Relevant ones will be migrated. 
+  
 ### 2. UC 17 Vote - Johan (5 min)
 - Voting directly on the PR: https://github.com/finos/FDC3/pull/153
 
