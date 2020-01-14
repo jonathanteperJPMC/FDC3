@@ -17,7 +17,7 @@
   - new [in github, [this folder](https://github.com/jonathanteperJPMC/FDC3/tree/master/docs/use-cases/meeting-minutes), we also could create a GitHub Issue template]
 - Governance Docs [to be refreshed and moved to the [use cases intro](https://github.com/jonathanteperJPMC/FDC3/blob/master/docs/use-cases-intro.md) page] 
   - Ratifying use cases - voting done via GitHub (👍 / 👎 on an issue - see [UC 17](https://github.com/finos/FDC3/pull/153)) rather than Google Groups
-- Use Cases: 
+- Use Cases 
   - 1. In Review [will be managed via submitted pull requests - is there an easy way to surface these?]
   - 2. Accepted [DONE - listed [here](https://github.com/jonathanteperJPMC/FDC3/tree/master/docs/use-cases)]
   - 3. Rejected [same comment as in review]
