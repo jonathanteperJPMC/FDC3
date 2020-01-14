@@ -30,7 +30,7 @@
 ### 2. UC 17 Vote - Johan (5 min)
 - Voting directly on the PR: https://github.com/finos/FDC3/pull/153
 
-## 3. UCWG Goals and Roadmap - JT (15 min)
+### 3. UCWG Goals and Roadmap - JT (15 min)
 - see proposal [here](https://github.com/jonathanteperJPMC/FDC3/blob/master/docs/fdc3-okrs.md#use-case-working-group)
 
 ## Decisions Made
