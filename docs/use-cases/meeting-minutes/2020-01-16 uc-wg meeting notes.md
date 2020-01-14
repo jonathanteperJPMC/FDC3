@@ -23,7 +23,7 @@
   - 3. Rejected [same comment as in review]
   - 4. Deleted [same comment as above]
   - 5. Backlog [same comment as above]
-  - USe Case XX: Template [we can create this as a github issue type]
+  - Use Case XX: Template [we can create this as a github issue type]
 
 ### 2. UC 17 Vote - Johan (5 min)
 - Voting directly on the PR: https://github.com/finos/FDC3/pull/153
