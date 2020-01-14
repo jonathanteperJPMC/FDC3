@@ -27,7 +27,8 @@ Objective #1: **Demonstrate the impact of FDC3 Interoperability**
      * 80% of standards map to documented use-cases 
 
 **Roadmap / Q1 Milestones:**  
-(to be moved to the FDC3 roadmap page once agreed)
+
+(to be moved to the FDC3 roadmap page, once agreed)
 1. **Use-case issue template** created in GitHub in order to facilitate other working groups and fdc3 contributors creating use cases
 2. **Real-world impact page** created to track industry adoption (companies & stage), usage (any metrics they can contribute), and testimonials.
 3. **Showcases page** published, demonstrating use-cases end-to-end (video demo + link to UC, standards, etc) – these should be the gold standard for the UCWG
