@@ -28,7 +28,7 @@
 - Action Items 
   - to be reviewed and closed out. Relevant ones will be migrated. 
 - Process: 
-  - edit meeting minutes live on call, all can review and approve the minutes on the call, then the PR is merged. 
+  - One of the participants edits meeting minutes live on a screenshare during the call. All participants on the call review and approve the minutes at the end of the call. Once approved verbally on the call, the meeting minutes PR can be merged. 
 
 ### 2. UC 17 Vote - Johan (5 min)
 - Voting directly on the PR: https://github.com/finos/FDC3/pull/153
