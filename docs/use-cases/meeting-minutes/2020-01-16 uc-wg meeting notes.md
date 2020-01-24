@@ -5,8 +5,7 @@
 | Name  | Organization | GitHub ID  |
 | ------------- | ------------- | ------------- |
 | Jonathan Teper  | JP Morgan  | jonathanteperJPMC  |
-| -  | -  | -  |
-| -  | -  | -  |
+| Johan Sandersson  | Factset  | donbasuno  |
 
 ## Agenda
 ### 1. 2020 Move to GitHub - JT (15 min)
